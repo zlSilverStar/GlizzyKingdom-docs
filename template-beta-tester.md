@@ -1,0 +1,13 @@
+[Ingame Name]:
+[Name, mit dem ich dich ansprechen soll]:
+[Alter]:
+[Mikrofon?]: Ja/Nein
+[Kopfhörer?]: Ja/Nein
+[Kannst in Discord VoiceChat?]: Ja/Nein
+[Hast du Erfahrung in Bugtesting?]: Ja/Nein
+[(falls ja) Welche?] 
+  -
+  -
+  -
+  -
+[Fließtext bewerbung hier]:
