@@ -9,6 +9,7 @@
 1. Du hast eine Spielzeit von 5 Stunden (Survival / Event )
 2. Du besitzt eine angemessene geistige Reife
 3. Du bist noch nicht negativ aufgefallen
+4. Du besitzt ein Funktionierendes Mikrofon sowie Kopfhörer und bist bereit mit zlSilverStar in den Sprachchat auf Discord für absprachen zu gehen.
 
 
 ## Interesse?
