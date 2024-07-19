@@ -7,8 +7,8 @@
 
 Bug Report Vorlage:
 
-Art: Bug/Typo/Translation
-Wie gravierend(1 wenig - 5 sehr gravierend): 
-Schritte um den Bug hervorzurufen:
-...
-Beeinflusst der Bug das Spielerlebnis?: Ja/Nein
+ - Art: Bug/Typo/Translation
+ - Wie gravierend(1 wenig - 5 sehr gravierend): 
+ - Schritte um den Bug hervorzurufen:
+ - ...
+ - Beeinflusst der Bug das Spielerlebnis?: Ja/Nein
