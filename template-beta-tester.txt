@@ -10,4 +10,7 @@
   -
   -
   -
+[Kontaktmöglichkeiten (Email etc) Freiwillig]: 
+  - Email:
+  - Discord:
 [Fließtext bewerbung hier]:
