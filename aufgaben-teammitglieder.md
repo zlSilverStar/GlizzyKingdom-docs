@@ -31,5 +31,5 @@
 - **Erstellen von Dokumentationen**: Dokumentation der entwickelten Plugins für das Team.
 
 ### Aufgaben im Content-Team:
-- **Konzipierung von Updates und Spielmodi**: Entwicklung neuer Updates und Spielmodi für das Netzwerk.
+- **Konzipierung von Updates und Spielmodi**: Überlegen neuer Updates und Spielmodi für das Netzwerk.
 - **Ideen aus der Community**: Entgegennahme und Ausarbeitung von Ideen und Vorschlägen aus der Community.
